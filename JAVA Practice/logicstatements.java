@@ -3,7 +3,7 @@ public class logicstatements {
         int x = 34;
         int y = 34;
 
-        if (x<y) {
+        if (x < y) {
             System.out.println("x is less than y");
         }
         //The if & else statement can be also written in shortcut as
